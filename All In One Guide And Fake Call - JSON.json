@@ -9,19 +9,19 @@
   "applovin_interstitial_id": "xxxxxx",
   "applovin_native_id": "xxxxxx",
   "applovin_rewarded_id": "xxxxxx",
-  "max": true,
+  "max": false,
   
   "unity_banner_id": "xxxx",
   "unity_interstitial_id": "xxxx",
   "unity_rewarded_id": "xxxx",
   "unity_app_id": "xxxx",
-  "is_unity_test_mode": true,
+  "is_unity_test_mode": false,
   
-  "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-  "admob_native": "ca-app-pub-3940256099942544/2247696110",
-  "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
-  "admob_open_app": "ca-app-pub-3940256099942544/5224354917",
+  "admob_banner": "",
+  "admob_interstitial": "",
+  "admob_native": "",
+  "admob_rewarded": "",
+  "admob_open_app": "",
   
   "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -33,10 +33,10 @@
   
   "Ads Explanation": " custom | applovin | admob | facebook | ironsource | unity | startapp ",
 
-  "Interstitial": "admob",
-  "Banner": "admob",
-  "Native": "admob",
-  "Rewarded": "admob",
+  "Interstitial": "",
+  "Banner": "",
+  "Native": "",
+  "Rewarded": "",
   
   
   "onesignal_id": "xxxxxxx",
@@ -44,9 +44,9 @@
   
  
   "show_tips": true,
-  "show_fake_call": true,
+  "show_fake_call": false,
   
-  "show_videos_btn": true,
+  "show_videos_btn": false,
   
   "show_quiz": true,
   "show_spin": true,
@@ -64,7 +64,7 @@
   "clicks_to_show_inter": 2,
   "native_rate": 2,
   
-  "show_cpa": true,
+  "show_cpa": false,
   "cpa_image": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2022/01/31105343/Freefire-diamonds.jpg",
   "cpa_url": "https://fr.uoldown.com/android/free-fire-hack-diamond-and-coins/download",
   "cpa_button_text": "Get It Now!",
@@ -77,19 +77,19 @@
   "suspended_URL": "xxxx",
 
 
-  "show_app_1": true,
+  "show_app_1": false,
   "app_icon_1": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
   "app_title_1": "Parchisi STAR Online",
   "app_desc_1": "Parchisi STAR is an online multiplayer game.",
   "app_url_1": "com.superking.parchisi.star",
   
-  "show_app_2": true,
+  "show_app_2": false,
   "app_icon_2": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag=s512-rw",
   "app_title_2": "8 Ball Pool",
   "app_desc_2": "8 Ball Pool is your online challenge in 3D!",
   "app_url_2": "com.miniclip.eightballpool",
   
-  "show_app_3": true,
+  "show_app_3": false,
   "app_icon_3": "https://play-lh.googleusercontent.com/hO7716hh7NCcFauJedDclX-R3Zh9JmbSs8AUU6TP2edGVILlZM7gmyt_8WPCZELiPQA=s512-rw",
   "app_title_3": "Plants vs. Zombies™",
   "app_desc_3": "Soil your plants as a mob of fun-loving zombies",
